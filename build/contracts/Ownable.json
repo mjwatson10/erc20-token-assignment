@@ -609,12 +609,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x1Ca08a1FdA2b04060Be4329F496eB0b9D6c7bA82",
-      "transactionHash": "0x6dbbcf5c2c979e99cf44a179f01ccb89f3678c0e89d811ea8fa25bd07fe54092"
+      "address": "0x8EA9e28DA0C4820DBc81496365b9A540E4D6405C",
+      "transactionHash": "0xce2a61c497e6779e12e37547153189fbf5aea545353233f03c39657a74baa344"
     }
   },
   "schemaVersion": "3.2.0",
-  "updatedAt": "2020-08-30T08:05:55.303Z",
+  "updatedAt": "2020-08-30T21:25:23.710Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
